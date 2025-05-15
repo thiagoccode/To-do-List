@@ -12,7 +12,8 @@ body {
     background-image: url("../img/landscapeBg.jpg");
     background-position: center;
     background-size: cover;
-    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed
 }
 
 button {
